@@ -1,0 +1,39 @@
+C:\Users\fletc\workspace\csharp\Tuna Piano\obj\Debug\net8.0\Tuna Piano.csproj.AssemblyReference.cache
+C:\Users\fletc\workspace\csharp\Tuna Piano\obj\Debug\net8.0\Tuna Piano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fletc\workspace\csharp\Tuna Piano\obj\Debug\net8.0\Tuna Piano.AssemblyInfoInputs.cache
+C:\Users\fletc\workspace\csharp\Tuna Piano\obj\Debug\net8.0\Tuna Piano.AssemblyInfo.cs
+C:\Users\fletc\workspace\csharp\Tuna Piano\obj\Debug\net8.0\Tuna Piano.csproj.CoreCompileInputs.cache
+C:\Users\fletc\workspace\csharp\Tuna Piano\obj\Debug\net8.0\Tuna Piano.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fletc\workspace\csharp\Tuna Piano\obj\Debug\net8.0\Tuna Piano.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fletc\workspace\csharp\Tuna Piano\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\fletc\workspace\csharp\Tuna Piano\bin\Debug\net8.0\appsettings.json
+C:\Users\fletc\workspace\csharp\Tuna Piano\bin\Debug\net8.0\Tuna Piano.exe
+C:\Users\fletc\workspace\csharp\Tuna Piano\bin\Debug\net8.0\Tuna Piano.deps.json
+C:\Users\fletc\workspace\csharp\Tuna Piano\bin\Debug\net8.0\Tuna Piano.runtimeconfig.json
+C:\Users\fletc\workspace\csharp\Tuna Piano\bin\Debug\net8.0\Tuna Piano.dll
+C:\Users\fletc\workspace\csharp\Tuna Piano\bin\Debug\net8.0\Tuna Piano.pdb
+C:\Users\fletc\workspace\csharp\Tuna Piano\bin\Debug\net8.0\Humanizer.dll
+C:\Users\fletc\workspace\csharp\Tuna Piano\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fletc\workspace\csharp\Tuna Piano\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fletc\workspace\csharp\Tuna Piano\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fletc\workspace\csharp\Tuna Piano\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fletc\workspace\csharp\Tuna Piano\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\fletc\workspace\csharp\Tuna Piano\bin\Debug\net8.0\Npgsql.dll
+C:\Users\fletc\workspace\csharp\Tuna Piano\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\fletc\workspace\csharp\Tuna Piano\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fletc\workspace\csharp\Tuna Piano\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fletc\workspace\csharp\Tuna Piano\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fletc\workspace\csharp\Tuna Piano\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\fletc\workspace\csharp\Tuna Piano\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\fletc\workspace\csharp\Tuna Piano\obj\Debug\net8.0\staticwebassets\msbuild.Tuna Piano.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fletc\workspace\csharp\Tuna Piano\obj\Debug\net8.0\staticwebassets\msbuild.build.Tuna Piano.props
+C:\Users\fletc\workspace\csharp\Tuna Piano\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tuna Piano.props
+C:\Users\fletc\workspace\csharp\Tuna Piano\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tuna Piano.props
+C:\Users\fletc\workspace\csharp\Tuna Piano\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\fletc\workspace\csharp\Tuna Piano\obj\Debug\net8.0\scopedcss\bundle\Tuna Piano.styles.css
+C:\Users\fletc\workspace\csharp\Tuna Piano\obj\Debug\net8.0\Tuna Piano.csproj.Up2Date
+C:\Users\fletc\workspace\csharp\Tuna Piano\obj\Debug\net8.0\Tuna Piano.dll
+C:\Users\fletc\workspace\csharp\Tuna Piano\obj\Debug\net8.0\refint\Tuna Piano.dll
+C:\Users\fletc\workspace\csharp\Tuna Piano\obj\Debug\net8.0\Tuna Piano.pdb
+C:\Users\fletc\workspace\csharp\Tuna Piano\obj\Debug\net8.0\Tuna Piano.genruntimeconfig.cache
+C:\Users\fletc\workspace\csharp\Tuna Piano\obj\Debug\net8.0\ref\Tuna Piano.dll
